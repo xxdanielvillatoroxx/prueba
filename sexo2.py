@@ -1,1 +1,1 @@
-print("sexo")
+print("cris te amo")
